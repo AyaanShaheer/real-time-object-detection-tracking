@@ -3,7 +3,7 @@ A real-time object detection and tracking system using YOLOv5 for detection and 
 
 # Real-Time Object Detection & Tracking System
 
-![Object Detection]([https://via.placeholder.com/800x400](https://www.google.com/imgres?q=object%20detection%20images%20copyright%20free&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fmachine-learning-ai-identify-objects-600nw-1182963280.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcar-object-detection&docid=w9bGZofcdj71UM&tbnid=ZQK79pVHRmwM3M&vet=12ahUKEwiap7GWk7iJAxXKTGwGHfi2MOsQM3oECGYQAA..i&w=600&h=396&hcb=2&ved=2ahUKEwiap7GWk7iJAxXKTGwGHfi2MOsQM3oECGYQAA))  <!-- Replace with an appropriate image -->
+![Object Detection](https://www.shutterstock.com/image-photo/machine-learning-ai-identify-objects-600nw-1182963280.jpg) 
 
 ## Table of Contents
 - [Overview](#overview)
